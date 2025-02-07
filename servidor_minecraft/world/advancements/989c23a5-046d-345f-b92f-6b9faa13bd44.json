@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-07 19:43:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-02-07 05:00:25 +0000"
@@ -367,6 +373,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-02-07 02:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-07 20:11:31 +0000"
     },
     "done": true
   },
@@ -863,6 +875,8 @@
       "minecraft:hoglin": "2025-02-07 04:58:57 +0000",
       "minecraft:spider": "2025-02-07 03:15:40 +0000",
       "minecraft:creeper": "2025-02-07 05:41:12 +0000",
+      "minecraft:slime": "2025-02-07 19:37:20 +0000",
+      "minecraft:zombified_piglin": "2025-02-07 20:11:30 +0000",
       "minecraft:wither_skeleton": "2025-02-07 05:12:48 +0000",
       "minecraft:piglin": "2025-02-07 04:57:29 +0000",
       "minecraft:enderman": "2025-02-07 03:22:04 +0000",
@@ -977,6 +991,18 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-02-07 03:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-07 20:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-07 19:44:08 +0000"
     },
     "done": true
   },
@@ -1184,6 +1210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-07 19:37:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-02-07 05:12:35 +0000"
@@ -1274,6 +1306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-02-07 20:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-02-07 03:23:39 +0000"
@@ -1361,6 +1399,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-02-07 05:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-07 19:37:28 +0000"
     },
     "done": true
   },
@@ -1574,6 +1618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-07 19:37:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-02-07 05:13:40 +0000"
@@ -1779,6 +1829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-02-07 19:39:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-07 19:16:22 +0000"
@@ -1844,6 +1900,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-02-07 04:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-02-07 20:12:30 +0000"
     },
     "done": true
   },
