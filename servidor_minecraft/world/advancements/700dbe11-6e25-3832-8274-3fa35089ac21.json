@@ -8177,6 +8177,12 @@
     },
     "done": true
   },
+  "obs:ob/glistening": {
+    "criteria": {
+      "requirement": "2025-02-07 01:17:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2025-02-07 00:28:23 +0000"

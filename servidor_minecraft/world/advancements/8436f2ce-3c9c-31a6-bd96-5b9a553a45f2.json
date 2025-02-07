@@ -8093,9 +8093,9 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "obs:phases/phase_4": {
     "criteria": {
-      "iron_helmet": "2025-02-07 00:00:29 +0000"
+      "requirement": "2025-02-06 23:47:37 +0000"
     },
     "done": true
   },
@@ -8105,33 +8105,15 @@
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-02-06 23:53:53 +0000"
-    },
-    "done": true
-  },
   "obs:ob/coal": {
     "criteria": {
       "requirement": "2025-02-06 23:51:47 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "traded": "2025-02-06 23:57:19 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/sapling": {
-    "criteria": {
-      "requirement": "2025-02-07 00:03:05 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/villager": {
-    "criteria": {
-      "requirement": "2025-02-07 00:02:03 +0000"
+      "iron": "2025-02-06 23:53:53 +0000"
     },
     "done": true
   },
@@ -8141,15 +8123,69 @@
     },
     "done": true
   },
-  "obs:phases/phase_4": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "requirement": "2025-02-06 23:47:37 +0000"
+      "traded": "2025-02-06 23:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-02-07 00:00:29 +0000"
     },
     "done": true
   },
   "obs:phases/phase_5": {
     "criteria": {
       "requirement": "2025-02-07 00:00:59 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/villager": {
+    "criteria": {
+      "requirement": "2025-02-07 00:02:03 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/sapling": {
+    "criteria": {
+      "requirement": "2025-02-07 00:03:05 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/redstone": {
+    "criteria": {
+      "requirement": "2025-02-07 01:15:17 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_6": {
+    "criteria": {
+      "requirement": "2025-02-07 01:13:24 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_7": {
+    "criteria": {
+      "requirement": "2025-02-07 01:13:24 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_8": {
+    "criteria": {
+      "requirement": "2025-02-07 01:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-07 01:14:24 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/diamond": {
+    "criteria": {
+      "requirement": "2025-02-07 01:14:24 +0000"
     },
     "done": true
   },
