@@ -8495,9 +8495,21 @@
     },
     "done": true
   },
+  "obs:ap/root": {
+    "criteria": {
+      "requirement": "2025-02-07 02:00:30 +0000"
+    },
+    "done": true
+  },
   "obs:ob/weapon": {
     "criteria": {
       "requirement": "2025-02-07 01:50:33 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_9": {
+    "criteria": {
+      "requirement": "2025-02-07 02:00:30 +0000"
     },
     "done": true
   },
