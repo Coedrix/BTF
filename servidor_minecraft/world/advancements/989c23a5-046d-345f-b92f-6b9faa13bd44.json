@@ -8162,6 +8162,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-07 00:01:20 +0000",
+      "minecraft:enderman": "2025-02-07 01:38:26 +0000",
       "minecraft:spider": "2025-02-07 00:02:37 +0000",
       "minecraft:zombie": "2025-02-06 23:59:18 +0000",
       "minecraft:creeper": "2025-02-07 00:11:14 +0000"
@@ -8239,6 +8240,12 @@
       "diamond_chestplate": "2025-02-07 01:10:39 +0000"
     },
     "done": true
+  },
+  "obs:ob/ender": {
+    "criteria": {
+      "1": "2025-02-07 01:38:26 +0000"
+    },
+    "done": false
   },
   "obs:ob/glistening": {
     "criteria": {
