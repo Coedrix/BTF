@@ -8204,5 +8204,47 @@
     },
     "done": true
   },
+  "obs:phases/dirt_4": {
+    "criteria": {
+      "requirement": "2025-02-07 00:16:24 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_6": {
+    "criteria": {
+      "requirement": "2025-02-07 00:18:57 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/redstone": {
+    "criteria": {
+      "requirement": "2025-02-07 00:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-02-07 00:26:45 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_7": {
+    "criteria": {
+      "requirement": "2025-02-07 00:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-07 00:29:59 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/diamond": {
+    "criteria": {
+      "requirement": "2025-02-07 00:29:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }

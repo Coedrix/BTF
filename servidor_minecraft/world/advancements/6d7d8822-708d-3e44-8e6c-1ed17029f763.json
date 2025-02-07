@@ -8045,60 +8045,6 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-02-06 23:39:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-02-06 23:53:00 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/coal": {
-    "criteria": {
-      "requirement": "2025-02-06 23:48:04 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/plant": {
-    "criteria": {
-      "requirement": "2025-02-06 23:51:40 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/sapling": {
-    "criteria": {
-      "requirement": "2025-02-06 23:41:27 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/cobblemania": {
-    "criteria": {
-      "requirement": "2025-02-06 23:39:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-02-06 23:40:34 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/iron": {
-    "criteria": {
-      "requirement": "2025-02-06 23:53:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-02-06 23:51:22 +0000"
-    },
-    "done": true
-  },
   "obs:phases/phase_1": {
     "criteria": {
       "requirement": "2025-02-06 23:29:51 +0000"
@@ -8117,9 +8063,69 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-06 23:39:45 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/cobblemania": {
+    "criteria": {
+      "requirement": "2025-02-06 23:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-06 23:40:34 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/sapling": {
+    "criteria": {
+      "requirement": "2025-02-06 23:41:27 +0000"
+    },
+    "done": true
+  },
   "obs:phases/phase_4": {
     "criteria": {
       "requirement": "2025-02-06 23:47:37 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/coal": {
+    "criteria": {
+      "requirement": "2025-02-06 23:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-06 23:51:22 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/plant": {
+    "criteria": {
+      "requirement": "2025-02-06 23:51:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-06 23:53:00 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/iron": {
+    "criteria": {
+      "requirement": "2025-02-06 23:53:00 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_1": {
+    "criteria": {
+      "requirement": "2025-02-06 23:54:00 +0000"
     },
     "done": true
   },
@@ -8129,9 +8135,39 @@
     },
     "done": true
   },
-  "obs:phases/dirt_1": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "requirement": "2025-02-06 23:54:00 +0000"
+      "iron_pickaxe": "2025-02-07 00:26:53 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/redstone": {
+    "criteria": {
+      "requirement": "2025-02-07 00:27:02 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/glistening": {
+    "criteria": {
+      "requirement": "2025-02-07 00:26:38 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_6": {
+    "criteria": {
+      "requirement": "2025-02-07 00:21:48 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_7": {
+    "criteria": {
+      "requirement": "2025-02-07 00:28:26 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_2": {
+    "criteria": {
+      "requirement": "2025-02-07 00:29:23 +0000"
     },
     "done": true
   },
