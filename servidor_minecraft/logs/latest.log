@@ -421,3 +421,60 @@
 [07Feb2025 19:22:07.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> coño yo no puedo ver la capa
 [07Feb2025 19:22:15.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CoedrixD> intenta usar f11
 [07Feb2025 19:22:24.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> tampoco
+[07Feb2025 19:22:30.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> es el mismo f3 que me tapa
+[07Feb2025 19:22:41.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CoedrixD> me hago tp y te digo las coords o q
+[07Feb2025 19:22:46.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> va
+[07Feb2025 19:22:50.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CoedrixD> -788
+[07Feb2025 19:22:50.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> guardate las tuyas
+[07Feb2025 19:22:55.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CoedrixD> -778 -7
+[07Feb2025 19:23:00.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CoedrixD: Set own game mode to Spectator Mode]
+[07Feb2025 19:23:03.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> las mias?
+[07Feb2025 19:23:07.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CoedrixD: Teleported CoedrixD to Matt_pkm]
+[07Feb2025 19:23:08.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CoedrixD> no
+[07Feb2025 19:23:11.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CoedrixD> estas en
+[07Feb2025 19:23:15.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CoedrixD> -40
+[07Feb2025 19:23:21.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> ahiora'
+[07Feb2025 19:23:22.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> ?
+[07Feb2025 19:23:23.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CoedrixD> -44
+[07Feb2025 19:23:34.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> ya
+[07Feb2025 19:23:35.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> -53
+[07Feb2025 19:23:36.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CoedrixD> si
+[07Feb2025 19:23:49.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CoedrixD> un bloque mas abajo y lya
+[07Feb2025 19:23:59.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CoedrixD: Teleported CoedrixD to -777.500000, 60.000000, -6.500000]
+[07Feb2025 19:24:00.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> vale
+[07Feb2025 19:24:02.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> vuelve a lo tuyo
+[07Feb2025 19:24:03.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CoedrixD: Set own game mode to Survival Mode]
+[07Feb2025 19:24:04.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CoedrixD lost connection: Disconnected
+[07Feb2025 19:24:04.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CoedrixD left the game
+[07Feb2025 19:24:05.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> puto tl
+[07Feb2025 19:24:08.587] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6f0bd22b
+[07Feb2025 19:24:08.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CoedrixD[/127.167.61.252:55771] logged in with entity id 12448 at (-775.8810258547383, 65.0, -7.141693395019277)
+[07Feb2025 19:24:08.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CoedrixD joined the game
+[07Feb2025 19:24:12.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CoedrixD lost connection: Disconnected
+[07Feb2025 19:24:12.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CoedrixD left the game
+[07Feb2025 19:24:17.739] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@22e3ebe5
+[07Feb2025 19:24:17.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CoedrixD[/127.167.61.252:37891] logged in with entity id 12525 at (-775.8810258547383, 65.0, -7.141693395019277)
+[07Feb2025 19:24:17.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CoedrixD joined the game
+[07Feb2025 19:24:19.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> bro te dije vuelve a lo tuyo y empezaste con los rejoins
+[07Feb2025 19:24:20.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CoedrixD lost connection: Disconnected
+[07Feb2025 19:24:20.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CoedrixD left the game
+[07Feb2025 19:24:25.088] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@50be6b63
+[07Feb2025 19:24:25.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CoedrixD[/127.167.61.252:54793] logged in with entity id 12604 at (-775.8810258547383, 65.0, -7.141693395019277)
+[07Feb2025 19:24:25.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CoedrixD joined the game
+[07Feb2025 19:24:30.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CoedrixD> vale volvi a lo mio
+[07Feb2025 19:24:32.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CoedrixD> hacer erjoin cada 2x3
+[07Feb2025 19:24:33.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> XDDD
+[07Feb2025 19:26:27.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> 4 diamantes
+[07Feb2025 19:27:24.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> lol
+[07Feb2025 19:27:29.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> estama minando redstone
+[07Feb2025 19:27:35.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> mine un bloque por accidente que estaba al lado
+[07Feb2025 19:27:38.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> y habia diamantes
+[07Feb2025 19:27:43.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CoedrixD> eso me paso pero con nederai
+[07Feb2025 19:28:20.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> escucho lava
+[07Feb2025 19:28:22.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> media vuelta!!
+[07Feb2025 19:31:11.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CoedrixD> me quede sin iron xd
+[07Feb2025 19:31:25.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> si quieres vuelvo y te doy mi iron
+[07Feb2025 19:31:28.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CoedrixD> no
+[07Feb2025 19:31:29.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CoedrixD> encontre 9 ores
+[07Feb2025 19:31:59.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> 24 diamantes
+[07Feb2025 19:32:01.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Matt_pkm> voy a volver
