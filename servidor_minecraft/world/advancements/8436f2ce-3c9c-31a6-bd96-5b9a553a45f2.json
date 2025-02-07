@@ -8153,6 +8153,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-07 01:27:05 +0000"
+    },
+    "done": true
+  },
   "obs:ob/redstone": {
     "criteria": {
       "requirement": "2025-02-07 01:15:17 +0000"
