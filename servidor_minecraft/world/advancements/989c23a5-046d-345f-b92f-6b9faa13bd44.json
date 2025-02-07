@@ -8229,6 +8229,12 @@
     },
     "done": true
   },
+  "obs:ob/weapon": {
+    "criteria": {
+      "requirement": "2025-02-07 01:44:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-02-07 00:32:51 +0000"
@@ -8238,6 +8244,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-02-07 01:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-07 01:49:09 +0000"
     },
     "done": true
   },

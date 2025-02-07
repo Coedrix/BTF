@@ -8219,5 +8219,25 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-02-07 01:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-02-07 01:45:33 +0000",
+      "minecraft:zombie": "2025-02-07 01:45:15 +0000",
+      "minecraft:zombie_villager": "2025-02-07 01:45:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-02-07 01:45:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
