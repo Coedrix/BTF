@@ -8147,6 +8147,12 @@
     },
     "done": true
   },
+  "obs:ob/weapon": {
+    "criteria": {
+      "requirement": "2025-02-07 00:46:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-02-07 00:28:23 +0000"
@@ -8180,6 +8186,18 @@
   "obs:phases/phase_7": {
     "criteria": {
       "requirement": "2025-02-07 00:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-07 00:46:59 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/diamond": {
+    "criteria": {
+      "requirement": "2025-02-07 00:46:59 +0000"
     },
     "done": true
   },
