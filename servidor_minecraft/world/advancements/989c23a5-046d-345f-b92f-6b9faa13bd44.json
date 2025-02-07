@@ -8246,6 +8246,12 @@
     },
     "done": true
   },
+  "obs:phases/phase_8": {
+    "criteria": {
+      "requirement": "2025-02-07 00:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-02-07 00:29:59 +0000"

@@ -8159,6 +8159,12 @@
     },
     "done": false
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-07 00:57:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-02-07 00:24:57 +0000"
@@ -8186,6 +8192,12 @@
   "obs:phases/phase_7": {
     "criteria": {
       "requirement": "2025-02-07 00:28:26 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_8": {
+    "criteria": {
+      "requirement": "2025-02-07 00:57:14 +0000"
     },
     "done": true
   },
