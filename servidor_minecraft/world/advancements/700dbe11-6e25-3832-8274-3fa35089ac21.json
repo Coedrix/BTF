@@ -8159,6 +8159,12 @@
     },
     "done": true
   },
+  "obs:ob/void": {
+    "criteria": {
+      "requirement": "2025-02-07 00:39:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2025-02-07 00:28:23 +0000"
@@ -8174,6 +8180,12 @@
   "obs:phases/phase_7": {
     "criteria": {
       "requirement": "2025-02-07 00:28:26 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_1": {
+    "criteria": {
+      "requirement": "2025-02-07 00:34:46 +0000"
     },
     "done": true
   },

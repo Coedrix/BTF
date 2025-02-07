@@ -8141,6 +8141,12 @@
     },
     "done": true
   },
+  "obs:ob/weapon": {
+    "criteria": {
+      "requirement": "2025-02-07 00:31:40 +0000"
+    },
+    "done": true
+  },
   "obs:ob/redstone": {
     "criteria": {
       "requirement": "2025-02-07 00:27:02 +0000"
@@ -8162,6 +8168,18 @@
   "obs:phases/phase_7": {
     "criteria": {
       "requirement": "2025-02-07 00:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-07 00:31:52 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/diamond": {
+    "criteria": {
+      "requirement": "2025-02-07 00:31:52 +0000"
     },
     "done": true
   },
