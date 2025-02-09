@@ -81,3 +81,16 @@
 [00:20:36] [Server thread/INFO]: DragoZzz lost connection: Timed out
 [00:20:36] [Server thread/INFO]: DragoZzz left the game
 [00:23:15] [Server thread/INFO]: CoedrixD fell out of the world
+[00:25:30] [Server thread/INFO]: CoedrixD lost connection: Disconnected
+[00:25:30] [Server thread/INFO]: CoedrixD left the game
+[00:26:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:30:04] [User Authenticator #2/INFO]: UUID of player DragoZzz is 6d7d8822-708d-3e44-8e6c-1ed17029f763
+[00:30:07] [Server thread/INFO]: DragoZzz joined the game
+[00:30:07] [Server thread/INFO]: DragoZzz[/127.110.116.20:45995] logged in with entity id 93 at ([world]-0.4383965374551401, 61.0, 1.6054072204700138)
+[00:30:53] [Server thread/INFO]: DragoZzz lost connection: Disconnected
+[00:30:54] [Server thread/INFO]: DragoZzz left the game
+[00:30:57] [User Authenticator #2/INFO]: UUID of player DragoZzz is 6d7d8822-708d-3e44-8e6c-1ed17029f763
+[00:30:59] [Server thread/INFO]: DragoZzz joined the game
+[00:30:59] [Server thread/INFO]: DragoZzz[/127.110.116.20:41409] logged in with entity id 95 at ([world]3.593961795531499, -59.197148183509114, -2.078773195457795)
+[00:31:04] [Server thread/INFO]: DragoZzz fell out of the world
+[00:32:40] [Server thread/INFO]: DragoZzz fell out of the world
