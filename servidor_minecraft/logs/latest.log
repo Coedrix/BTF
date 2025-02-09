@@ -1,98 +1,89 @@
-[01:02:19] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[01:02:19] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[01:02:19] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:02:20] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[01:02:20] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+[02:02:01] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[02:02:01] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[02:02:01] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:02:02] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[02:02:02] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
  - DeadChest (4.21.1), ItemJoin (6.1.1-RELEASE-b1048), SinglePlayerSleep (1.16_2.13.53)
-[01:02:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:02:25] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[01:02:25] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 293.1ms
-[01:02:28] [ServerMain/INFO]: Loaded 1339 recipes
-[01:02:28] [ServerMain/INFO]: Loaded 1452 advancements
-[01:02:28] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:02:28] [Server thread/INFO]: Loading properties
-[01:02:28] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[01:02:29] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:02:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:02:29] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:02:30] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[01:02:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[01:02:30] [Server thread/INFO]: Default game type: SURVIVAL
-[01:02:30] [Server thread/INFO]: Generating keypair
-[01:02:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:02:31] [Server thread/INFO]: Using epoll channel type
-[01:02:31] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:02:31] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[01:02:31] [Server thread/INFO]: [SinglePlayerSleep] Loading server plugin SinglePlayerSleep v1.16_2.13.53
-[01:02:31] [Server thread/INFO]: [ItemJoin] Loading server plugin ItemJoin v6.1.1-RELEASE-b1048
-[01:02:31] [Server thread/INFO]: [DeadChest] Loading server plugin DeadChest v4.21.1
-[01:02:31] [Server thread/INFO]: [DeadChest] Worldguard support disabled by user
-[01:02:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:02:31] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v6.1.1-RELEASE-b1048
-[01:02:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:02:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:02:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:02:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:02:31] [Server thread/INFO]: Preparing level "world"
-[01:02:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:02:32] [Server thread/INFO]: Preparing spawn area: 0%
-[01:02:32] [Server thread/INFO]: Preparing spawn area: 0%
-[01:02:32] [Server thread/INFO]: Time elapsed: 656 ms
-[01:02:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:02:32] [Server thread/INFO]: Preparing spawn area: 0%
-[01:02:33] [Server thread/INFO]: Time elapsed: 256 ms
-[01:02:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:02:33] [Server thread/INFO]: Preparing spawn area: 0%
-[01:02:33] [Server thread/INFO]: Time elapsed: 112 ms
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.16_2.13.53
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] **************************************
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] v1.16_2.13.53 Loading...
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] Jar Filename: SinglePlayerSleep-1.16_2.13.53.jar
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] Server Version: 1.21.3-63-4190ee7 (MC: 1.21.3)
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] [Warning] Version 1.21.3 has not yet been tested! Proceed with caution.
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] Loading file version checker...
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] Loading config file...
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] Loading messages file...
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] Loading config.yml...
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] Loading messages.yml...
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] Checking for updates...
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] *!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] * Version is up to date!
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] * Donate: https://ko-fi.com/joelgodofwar
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] *!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep] plugins/SinglePlayerSleep/permissions.yml
-[01:02:33] [Server thread/INFO]: [SinglePlayerSleep]  v1.16_2.13.53 is ENABLED - Loading took 508 ms.
-[01:02:33] [Server thread/INFO]: [DeadChest] Enabling DeadChest v4.21.1
-[01:02:33] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:02:33] [Server thread/INFO]: [spark] Starting background profiler...
-[01:02:34] [Server thread/INFO]: Done preparing level "world" (2.432s)
-[01:02:34] [Server thread/INFO]: Running delayed init tasks
-[01:02:34] [Server thread/INFO]: [ItemJoin] 1/1 Custom item(s) loaded!
-[01:02:34] [Server thread/INFO]: Done (16.304s)! For help, type "help"
-[01:02:34] [Craft Scheduler Thread - 2 - ItemJoin/INFO]: [ItemJoin] Checking for updates...
-[01:02:34] [Craft Scheduler Thread - 2 - ItemJoin/INFO]: [ItemJoin] You are up to date!
-[01:02:38] [User Authenticator #0/INFO]: UUID of player CoedrixD is e9d61e70-8027-39f0-8718-2a882872f0a2
-[01:02:39] [User Authenticator #0/INFO]: UUID of player DragoZzz is 6d7d8822-708d-3e44-8e6c-1ed17029f763
-[01:02:39] [Server thread/INFO]: CoedrixD joined the game
-[01:02:39] [Server thread/INFO]: CoedrixD[/127.167.61.252:37147] logged in with entity id 25 at ([world]1.8678024709293857, 61.0, 6.741279798122997)
-[01:02:40] [Server thread/INFO]: DragoZzz joined the game
-[01:02:40] [Server thread/INFO]: DragoZzz[/127.110.116.20:37015] logged in with entity id 26 at ([world]0.04572879889327823, 61.0, -0.32837000576693154)
-[01:03:09] [Server thread/INFO]: DragoZzz has made the advancement [Monster Hunter]
-[01:03:26] [Server thread/INFO]: DragoZzz has made the advancement [Acquire Hardware]
-[01:03:48] [Server thread/INFO]: CoedrixD has made the advancement [Acquire Hardware]
-[01:03:58] [Server thread/INFO]: CoedrixD has made the advancement [Not Today, Thank You]
-[01:05:01] [Server thread/INFO]: DragoZzz was slain by Zombie
-[01:07:28] [Server thread/INFO]: DragoZzz has made the advancement [Not Today, Thank You]
-[01:10:43] [Server thread/INFO]: DragoZzz fell out of the world
-[01:14:10] [Server thread/INFO]: CoedrixD has made the advancement [Isn't It Iron Pick]
-[01:16:42] [Server thread/INFO]: DragoZzz has made the advancement [Isn't It Iron Pick]
-[01:17:15] [Server thread/INFO]: CoedrixD issued server command: /difficulty hard
-[01:28:25] [Server thread/INFO]: CoedrixD has made the advancement [Best Friends Forever]
-[01:29:47] [Server thread/INFO]: DragoZzz has made the advancement [Take Aim]
-[01:36:27] [Server thread/INFO]: CoedrixD has made the advancement [Respecting the Remnants]
-[01:41:29] [Server thread/INFO]: DragoZzz has made the advancement [Best Friends Forever]
-[01:43:58] [Server thread/INFO]: DragoZzz fell out of the world
-[01:45:26] [Server thread/INFO]: DragoZzz fell out of the world
-[01:46:09] [Server thread/INFO]: DragoZzz fell out of the world
-[01:49:28] [Server thread/INFO]: CoedrixD has made the advancement [Suit Up]
-[01:52:23] [Server thread/INFO]: DragoZzz fell out of the world
+[02:02:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:02:07] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[02:02:07] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 391.8ms
+[02:02:10] [ServerMain/INFO]: Loaded 1339 recipes
+[02:02:10] [ServerMain/INFO]: Loaded 1452 advancements
+[02:02:10] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:02:10] [Server thread/INFO]: Loading properties
+[02:02:10] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[02:02:11] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:02:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:02:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:02:12] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:02:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:02:12] [Server thread/INFO]: Default game type: SURVIVAL
+[02:02:12] [Server thread/INFO]: Generating keypair
+[02:02:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:02:12] [Server thread/INFO]: Using epoll channel type
+[02:02:12] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:02:12] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:02:13] [Server thread/INFO]: [SinglePlayerSleep] Loading server plugin SinglePlayerSleep v1.16_2.13.53
+[02:02:13] [Server thread/INFO]: [ItemJoin] Loading server plugin ItemJoin v6.1.1-RELEASE-b1048
+[02:02:13] [Server thread/INFO]: [DeadChest] Loading server plugin DeadChest v4.21.1
+[02:02:13] [Server thread/INFO]: [DeadChest] Worldguard support disabled by user
+[02:02:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:02:13] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v6.1.1-RELEASE-b1048
+[02:02:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:02:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:02:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:02:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:02:13] [Server thread/INFO]: Preparing level "world"
+[02:02:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:02:14] [Server thread/INFO]: Preparing spawn area: 0%
+[02:02:14] [Server thread/INFO]: Preparing spawn area: 0%
+[02:02:14] [Server thread/INFO]: Time elapsed: 726 ms
+[02:02:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:02:14] [Server thread/INFO]: Preparing spawn area: 0%
+[02:02:14] [Server thread/INFO]: Time elapsed: 248 ms
+[02:02:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:02:14] [Server thread/INFO]: Preparing spawn area: 0%
+[02:02:14] [Server thread/INFO]: Time elapsed: 115 ms
+[02:02:14] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.16_2.13.53
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep] **************************************
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep] v1.16_2.13.53 Loading...
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep] Jar Filename: SinglePlayerSleep-1.16_2.13.53.jar
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep] Server Version: 1.21.3-63-4190ee7 (MC: 1.21.3)
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep] [Warning] Version 1.21.3 has not yet been tested! Proceed with caution.
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep] Loading file version checker...
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep] Loading config file...
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep] Loading messages file...
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep] Loading config.yml...
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep] Loading messages.yml...
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep] Checking for updates...
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep] *!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep] * Version is up to date!
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep] * Donate: https://ko-fi.com/joelgodofwar
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep] *!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep] plugins/SinglePlayerSleep/permissions.yml
+[02:02:15] [Server thread/INFO]: [SinglePlayerSleep]  v1.16_2.13.53 is ENABLED - Loading took 507 ms.
+[02:02:15] [Server thread/INFO]: [DeadChest] Enabling DeadChest v4.21.1
+[02:02:15] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:02:15] [Server thread/INFO]: [spark] Starting background profiler...
+[02:02:16] [Server thread/INFO]: Done preparing level "world" (2.490s)
+[02:02:16] [Server thread/INFO]: Running delayed init tasks
+[02:02:16] [Server thread/INFO]: [ItemJoin] 1/1 Custom item(s) loaded!
+[02:02:16] [Server thread/INFO]: Done (16.200s)! For help, type "help"
+[02:02:16] [Craft Scheduler Thread - 2 - ItemJoin/INFO]: [ItemJoin] Checking for updates...
+[02:02:16] [Craft Scheduler Thread - 2 - ItemJoin/INFO]: [ItemJoin] You are up to date!
+[02:02:24] [User Authenticator #0/INFO]: UUID of player CoedrixD is e9d61e70-8027-39f0-8718-2a882872f0a2
+[02:02:26] [Server thread/INFO]: CoedrixD joined the game
+[02:02:26] [Server thread/INFO]: CoedrixD[/127.167.61.252:59389] logged in with entity id 27 at ([world]-2.5045748938952053, 61.0, 0.2565371685715316)
+[02:02:28] [User Authenticator #0/INFO]: UUID of player DragoZzz is 6d7d8822-708d-3e44-8e6c-1ed17029f763
+[02:02:29] [Server thread/INFO]: DragoZzz joined the game
+[02:02:29] [Server thread/INFO]: DragoZzz[/127.110.116.20:51289] logged in with entity id 28 at ([world]2.7914650225486866, 61.0, -6.8751259558429485)
+[02:03:29] [Server thread/INFO]: Named entity Zombie['Monster Guard'/53, uuid='28d9b99c-b854-482a-abb7-3b45956d85e1', l='ServerLevel[world]', x=-10.17, y=61.00, z=0.51, cpos=[-1, 0], tl=193, v=true] died: Monster Guard was slain by CoedrixD
+[02:03:39] [Server thread/INFO]: Named entity Stray['Monster Guard'/60, uuid='607d7bda-5729-42a0-ae2a-6f4f1b889198', l='ServerLevel[world]', x=-10.24, y=61.00, z=0.50, cpos=[-1, 0], tl=331, v=true] died: Monster Guard was slain by CoedrixD
+[02:03:49] [Server thread/INFO]: Named entity Zombie['Monster Guard'/56, uuid='c01256d4-c250-4d3f-9255-9de1365a8537', l='ServerLevel[world]', x=-8.23, y=61.00, z=0.53, cpos=[-1, 0], tl=554, v=true] died: Monster Guard was slain by CoedrixD
+[02:04:16] [Server thread/INFO]: DragoZzz issued server command: /e dance
+[02:04:21] [Async Chat Thread - #0/INFO]: [Not Secure] <DragoZzz> barra e dance
+[02:06:51] [Server thread/INFO]: CoedrixD issued server command: /playsound minecraft:entity.creeper.primed ambient DragoZzz
+[02:08:27] [Server thread/INFO]: CoedrixD fell out of the world
+[02:08:44] [Async Chat Thread - #1/INFO]: [Not Secure] <CoedrixD> test
+[02:08:59] [Server thread/INFO]: DragoZzz was shot by Skeleton
+[02:09:03] [Server thread/INFO]: CoedrixD fell out of the world
