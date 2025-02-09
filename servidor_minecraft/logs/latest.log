@@ -75,3 +75,9 @@
 [00:03:38] [Server thread/INFO]: CoedrixD joined the game
 [00:03:38] [Server thread/INFO]: CoedrixD[/127.167.61.252:40231] logged in with entity id 14 at ([world]0.7019539023396959, 61.0, 0.7133217473445531)
 [00:10:13] [Async Chat Thread - #1/INFO]: [Not Secure] <CoedrixD> agitato 3.0
+[00:19:24] [User Authenticator #1/INFO]: UUID of player DragoZzz is 6d7d8822-708d-3e44-8e6c-1ed17029f763
+[00:19:26] [Server thread/INFO]: DragoZzz joined the game
+[00:19:26] [Server thread/INFO]: DragoZzz[/127.110.116.20:49641] logged in with entity id 39 at ([world]-0.5, 61.0, 0.5)
+[00:20:36] [Server thread/INFO]: DragoZzz lost connection: Timed out
+[00:20:36] [Server thread/INFO]: DragoZzz left the game
+[00:23:15] [Server thread/INFO]: CoedrixD fell out of the world
