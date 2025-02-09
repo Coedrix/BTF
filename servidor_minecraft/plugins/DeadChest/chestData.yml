@@ -432,3 +432,112 @@ chestData:
   - null
   - null
   chestLocation: world;-1.0;50.0;-1.0
+- ==: ChestData
+  playerUUID: 6d7d8822-708d-3e44-8e6c-1ed17029f763
+  holographicTimer: world;-0.5;61.799999952316284;3.5
+  worldName: world
+  as_timer_id: 5e83d997-d9a3-4c3c-a3d1-75a275026a2f
+  playerName: DragoZzz
+  isRemovedBlock: false
+  isInfinity: false
+  as_owner_id: df99b6b1-caee-4fa4-a084-3bba812d7fe6
+  chestDate: 2025-02-09T01:52:23.021Z
+  xpStored: 0
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: IRON_PICKAXE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: IRON_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: IRON_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: IRON_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 76
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: BOW
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: ARROW
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: BUNDLE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: STICK
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: SNOWBALL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: SNOWBALL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: SNOWBALL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: SNOWBALL
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: DIRT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: SNOWBALL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: GOLDEN_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Damage: 100
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: SHIELD
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;-1.0;61.0;3.0
