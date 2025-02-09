@@ -433,105 +433,230 @@ chestData:
   - null
   chestLocation: world;-1.0;50.0;-1.0
 - ==: ChestData
-  playerUUID: 989c23a5-046d-345f-b92f-6b9faa13bd44
-  holographicTimer: world;-0.5;61.799999952316284;1.5
+  playerUUID: e9d61e70-8027-39f0-8718-2a882872f0a2
+  holographicTimer: world;6.5;61.799999952316284;-2.5
   worldName: world
-  as_timer_id: f84fb17f-759f-4738-9209-674ac174356c
-  playerName: Matt_pkm
+  as_timer_id: 0151b177-6db3-45fb-b219-6e2116ad2a08
+  playerName: CoedrixD
   isRemovedBlock: false
   isInfinity: false
-  as_owner_id: 7e6a01eb-d147-430f-adf9-9d51b42ba5b4
-  chestDate: 2025-02-09T02:51:38.566Z
+  as_owner_id: c599f081-4925-41ad-9045-1c8c4eb56a52
+  chestDate: 2025-02-09T02:57:15.398Z
   xpStored: 0
   inventory:
   - ==: org.bukkit.inventory.ItemStack
     v: 4082
-    type: STONE_PICKAXE
+    type: WOODEN_SWORD
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      Damage: 26
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 5
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
   - ==: org.bukkit.inventory.ItemStack
     v: 4082
-    type: CANDLE
-    amount: 6
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: TORCH
-    amount: 4
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: CRAFTING_TABLE
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: STONE_PICKAXE
+    type: WOODEN_SWORD
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 2
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 28
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 16
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 12
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 7
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 1
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
       Damage: 4
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: STONE_PICKAXE
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 8
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: DIRT
-    amount: 2
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: STONE_PICKAXE
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 4
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: DEEPSLATE_BRICKS
-    amount: 2
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
   - ==: org.bukkit.inventory.ItemStack
     v: 4082
     type: ROTTEN_FLESH
+    amount: 29
   - ==: org.bukkit.inventory.ItemStack
     v: 4082
-    type: GRANITE
+    type: PUMPKIN_SEEDS
+    amount: 3
   - ==: org.bukkit.inventory.ItemStack
     v: 4082
-    type: SPRUCE_LOG
-    amount: 5
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 5
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
   - ==: org.bukkit.inventory.ItemStack
     v: 4082
-    type: TUFF
+    type: WHEAT
   - ==: org.bukkit.inventory.ItemStack
     v: 4082
-    type: RAW_COPPER
-    amount: 27
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: CALCITE
-    amount: 4
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: SMOOTH_BASALT
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: DARK_OAK_LOG
-    amount: 2
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: GUNPOWDER
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 5
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
   - ==: org.bukkit.inventory.ItemStack
     v: 4082
     type: WHEAT_SEEDS
+    amount: 4
   - ==: org.bukkit.inventory.ItemStack
     v: 4082
-    type: GRAVEL
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 3
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;6.0;61.0;-3.0
+- ==: ChestData
+  playerUUID: e9d61e70-8027-39f0-8718-2a882872f0a2
+  holographicTimer: world;2.5;61.799999952316284;-5.5
+  worldName: world
+  as_timer_id: 775d00ef-cadc-4df4-a289-9bbb00fd5436
+  playerName: CoedrixD
+  isRemovedBlock: false
+  isInfinity: false
+  as_owner_id: 2f248e29-968b-42ba-bf7e-71beb4b80adc
+  chestDate: 2025-02-09T02:58:57.717Z
+  xpStored: 0
+  inventory:
   - ==: org.bukkit.inventory.ItemStack
     v: 4082
-    type: OAK_PLANKS
-    amount: 20
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 5
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
   - null
   - null
   - null
@@ -552,17 +677,192 @@ chestData:
   - null
   - null
   - null
-  chestLocation: world;-1.0;61.0;1.0
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;2.0;61.0;-6.0
 - ==: ChestData
   playerUUID: 989c23a5-046d-345f-b92f-6b9faa13bd44
-  holographicTimer: world;-0.5;61.799999952316284;-3.5
+  holographicTimer: world;6.5;67.79999995231628;-2.5
   worldName: world
-  as_timer_id: a2e64ba3-0b1a-42e1-b533-0d5179c789b0
+  as_timer_id: 57635221-1eb3-4e85-a806-2091cb1d8e11
   playerName: Matt_pkm
   isRemovedBlock: false
   isInfinity: false
-  as_owner_id: 1b7fabae-082d-4053-a260-433a9dc77ae3
-  chestDate: 2025-02-09T02:51:47.173Z
+  as_owner_id: ec71f0ee-1c5d-4513-ae69-d58c224f2d29
+  chestDate: 2025-02-09T02:59:08.081Z
+  xpStored: 0
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 4
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 11
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WHEAT_SEEDS
+    amount: 4
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;6.0;67.0;-3.0
+- ==: ChestData
+  playerUUID: 6d7d8822-708d-3e44-8e6c-1ed17029f763
+  holographicTimer: world;4.5;61.799999952316284;-6.5
+  worldName: world
+  as_timer_id: 0402f42f-0419-4268-a0a2-d41b03459e49
+  playerName: DragoZzz
+  isRemovedBlock: false
+  isInfinity: false
+  as_owner_id: 1aca4b76-36e2-412d-b375-396383834ba6
+  chestDate: 2025-02-09T03:00:09.240Z
+  xpStored: 0
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: BIRCH_PLANKS
+    amount: 8
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: GOLD_INGOT
+    amount: 61
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;4.0;61.0;-7.0
+- ==: ChestData
+  playerUUID: 6d7d8822-708d-3e44-8e6c-1ed17029f763
+  holographicTimer: world;-11.5;-63.200000047683716;-8.5
+  worldName: world
+  as_timer_id: de26c70b-a2b1-4818-b412-e0627d01a433
+  playerName: DragoZzz
+  isRemovedBlock: false
+  isInfinity: false
+  as_owner_id: 095a08e6-0d20-41bc-a4f5-16d0c9481148
+  chestDate: 2025-02-09T03:00:29.781Z
   xpStored: 0
   inventory:
   - ==: org.bukkit.inventory.ItemStack
@@ -615,196 +915,169 @@ chestData:
   - null
   - null
   - null
-  chestLocation: world;-1.0;61.0;-4.0
+  chestLocation: world;-12.0;-64.0;-9.0
 - ==: ChestData
-  playerUUID: e9d61e70-8027-39f0-8718-2a882872f0a2
-  holographicTimer: world;1.5;-63.200000047683716;13.5
+  playerUUID: 6d7d8822-708d-3e44-8e6c-1ed17029f763
+  holographicTimer: world;-3.5;61.799999952316284;3.5
   worldName: world
-  as_timer_id: 4ffb0e1f-bfa6-475c-8d1a-b1d89db9f11c
-  playerName: CoedrixD
+  as_timer_id: e752ccea-a2e5-4f20-bef5-79b57f4b2b11
+  playerName: DragoZzz
   isRemovedBlock: false
   isInfinity: false
-  as_owner_id: d6a060f7-b15e-447e-8c4f-c53268cea5a1
-  chestDate: 2025-02-09T02:51:56.284Z
+  as_owner_id: 3e437395-17e5-4a05-8aa5-6d8b3f340322
+  chestDate: 2025-02-09T03:01:10.022Z
   xpStored: 0
   inventory:
   - ==: org.bukkit.inventory.ItemStack
     v: 4082
-    type: IRON_AXE
+    type: WOODEN_SWORD
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      Damage: 42
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 3
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;-4.0;61.0;3.0
+- ==: ChestData
+  playerUUID: e9d61e70-8027-39f0-8718-2a882872f0a2
+  holographicTimer: world;-9.5;61.799999952316284;-0.5
+  worldName: world
+  as_timer_id: eec06a55-d461-46b2-9d25-4f6d85015af0
+  playerName: CoedrixD
+  isRemovedBlock: false
+  isInfinity: false
+  as_owner_id: 4f84eea0-e088-4adc-ae60-624cc1f5dad5
+  chestDate: 2025-02-09T03:01:34.931Z
+  xpStored: 0
+  inventory:
   - ==: org.bukkit.inventory.ItemStack
     v: 4082
-    type: DIAMOND_PICKAXE
+    type: WOODEN_SWORD
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      Damage: 23
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 11
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;-10.0;61.0;-1.0
+- ==: ChestData
+  playerUUID: 6d7d8822-708d-3e44-8e6c-1ed17029f763
+  holographicTimer: world;-47.5;61.799999952316284;-1.5
+  worldName: world
+  as_timer_id: efe105b9-0d2f-4100-88ad-7de0b96521b5
+  playerName: DragoZzz
+  isRemovedBlock: false
+  isInfinity: false
+  as_owner_id: 7d65bb6b-fca9-4bf1-ac0d-83638baa22ec
+  chestDate: 2025-02-09T03:01:52.481Z
+  xpStored: 0
+  inventory:
   - ==: org.bukkit.inventory.ItemStack
     v: 4082
-    type: IRON_SHOVEL
+    type: WOODEN_SWORD
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      Damage: 244
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 5
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
   - ==: org.bukkit.inventory.ItemStack
     v: 4082
-    type: BRUSH
+    type: WOODEN_SWORD
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      Damage: 6
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: BOWL
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: SPRUCE_PLANKS
-    amount: 56
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: TORCH
-    amount: 5
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: APPLE
-    amount: 13
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: BOW
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 212
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: ARROW
-    amount: 12
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: IRON_PICKAXE
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 173
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: COBBLESTONE
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: GUNPOWDER
-    amount: 9
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: ROTTEN_FLESH
-    amount: 10
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: STICK
-    amount: 13
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: MELON_SLICE
-    amount: 16
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: TUFF
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: BONE
-    amount: 27
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: LEATHER
-    amount: 2
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: STRING
-    amount: 9
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: LAPIS_LAZULI
-    amount: 52
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: COAL
-    amount: 25
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: CHEST
-    amount: 3
-    meta:
-      ==: ItemMeta
-      meta-type: TILE_ENTITY
-      display-name: '"Snow Chest"'
-      blockMaterial: CHEST
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: RAW_GOLD
-    amount: 2
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: DEEPSLATE_BRICKS
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: CLAY_BALL
-    amount: 4
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: SPRUCE_SAPLING
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: CHEST
-    meta:
-      ==: ItemMeta
-      meta-type: TILE_ENTITY
-      display-name: '{"text":"Variety Chest","color":"blue"}'
-      blockMaterial: CHEST
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: CHEST
-    meta:
-      ==: ItemMeta
-      meta-type: TILE_ENTITY
-      display-name: '"Deep Chest"'
-      blockMaterial: CHEST
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: IRON_BOOTS
-    meta:
-      ==: ItemMeta
-      meta-type: ARMOR
-      Damage: 60
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: IRON_LEGGINGS
-    meta:
-      ==: ItemMeta
-      meta-type: ARMOR
-      Damage: 60
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: IRON_CHESTPLATE
-    meta:
-      ==: ItemMeta
-      meta-type: ARMOR
-      Damage: 60
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: IRON_HELMET
-    meta:
-      ==: ItemMeta
-      meta-type: ARMOR
-      Damage: 38
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: SHIELD
-    meta:
-      ==: ItemMeta
-      meta-type: SHIELD
-      Damage: 109
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      Damage: 2
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
   - null
   - null
   - null
@@ -812,4 +1085,36 @@ chestData:
   - null
   - null
   - null
-  chestLocation: world;1.0;-64.0;13.0
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;-48.0;61.0;-2.0
