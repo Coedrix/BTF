@@ -432,3 +432,384 @@ chestData:
   - null
   - null
   chestLocation: world;-1.0;50.0;-1.0
+- ==: ChestData
+  playerUUID: 989c23a5-046d-345f-b92f-6b9faa13bd44
+  holographicTimer: world;-0.5;61.799999952316284;1.5
+  worldName: world
+  as_timer_id: f84fb17f-759f-4738-9209-674ac174356c
+  playerName: Matt_pkm
+  isRemovedBlock: false
+  isInfinity: false
+  as_owner_id: 7e6a01eb-d147-430f-adf9-9d51b42ba5b4
+  chestDate: 2025-02-09T02:51:38.566Z
+  xpStored: 0
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: STONE_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 26
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: CANDLE
+    amount: 6
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: TORCH
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: CRAFTING_TABLE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: STONE_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: STONE_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: DIRT
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: STONE_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: DEEPSLATE_BRICKS
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: ROTTEN_FLESH
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: GRANITE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: SPRUCE_LOG
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: TUFF
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: RAW_COPPER
+    amount: 27
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: CALCITE
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: SMOOTH_BASALT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: DARK_OAK_LOG
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: GUNPOWDER
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WHEAT_SEEDS
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: GRAVEL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: OAK_PLANKS
+    amount: 20
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;-1.0;61.0;1.0
+- ==: ChestData
+  playerUUID: 989c23a5-046d-345f-b92f-6b9faa13bd44
+  holographicTimer: world;-0.5;61.799999952316284;-3.5
+  worldName: world
+  as_timer_id: a2e64ba3-0b1a-42e1-b533-0d5179c789b0
+  playerName: Matt_pkm
+  isRemovedBlock: false
+  isInfinity: false
+  as_owner_id: 1b7fabae-082d-4053-a260-433a9dc77ae3
+  chestDate: 2025-02-09T02:51:47.173Z
+  xpStored: 0
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada eterna"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;-1.0;61.0;-4.0
+- ==: ChestData
+  playerUUID: e9d61e70-8027-39f0-8718-2a882872f0a2
+  holographicTimer: world;1.5;-63.200000047683716;13.5
+  worldName: world
+  as_timer_id: 4ffb0e1f-bfa6-475c-8d1a-b1d89db9f11c
+  playerName: CoedrixD
+  isRemovedBlock: false
+  isInfinity: false
+  as_owner_id: d6a060f7-b15e-447e-8c4f-c53268cea5a1
+  chestDate: 2025-02-09T02:51:56.284Z
+  xpStored: 0
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: IRON_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 42
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 23
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: IRON_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 244
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: BRUSH
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 6
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: BOWL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: SPRUCE_PLANKS
+    amount: 56
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: TORCH
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: APPLE
+    amount: 13
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 212
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: ARROW
+    amount: 12
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: IRON_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 173
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: COBBLESTONE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: GUNPOWDER
+    amount: 9
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: ROTTEN_FLESH
+    amount: 10
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: STICK
+    amount: 13
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: MELON_SLICE
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: TUFF
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: BONE
+    amount: 27
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: LEATHER
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: STRING
+    amount: 9
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: LAPIS_LAZULI
+    amount: 52
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: COAL
+    amount: 25
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: CHEST
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: '"Snow Chest"'
+      blockMaterial: CHEST
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: RAW_GOLD
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: DEEPSLATE_BRICKS
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: CLAY_BALL
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: SPRUCE_SAPLING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: '{"text":"Variety Chest","color":"blue"}'
+      blockMaterial: CHEST
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: '"Deep Chest"'
+      blockMaterial: CHEST
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: IRON_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Damage: 60
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: IRON_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Damage: 60
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: IRON_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Damage: 60
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: IRON_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Damage: 38
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: SHIELD
+      Damage: 109
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;1.0;-64.0;13.0
