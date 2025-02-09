@@ -433,30 +433,77 @@ chestData:
   - null
   chestLocation: world;-1.0;50.0;-1.0
 - ==: ChestData
-  playerUUID: 6d7d8822-708d-3e44-8e6c-1ed17029f763
-  holographicTimer: world;0.5;61.799999952316284;-2.5
+  playerUUID: e9d61e70-8027-39f0-8718-2a882872f0a2
+  holographicTimer: world;0.5;-63.200000047683716;1.5
   worldName: world
-  as_timer_id: d73bbe51-bf20-4d53-9038-cd38e53884ac
-  playerName: DragoZzz
+  as_timer_id: d27cf994-33fa-435b-8474-03a0e6e3fead
+  playerName: CoedrixD
   isRemovedBlock: false
   isInfinity: false
-  as_owner_id: e8f67388-23fa-446d-b038-2c5a7f04f464
-  chestDate: 2025-02-09T00:32:40.374Z
+  as_owner_id: 00edadaa-4989-492c-85a6-b89fb4847e16
+  chestDate: 2025-02-09T00:42:27.802Z
+  xpStored: 0
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: DIRT
+    amount: 2
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;0.0;-64.0;1.0
+- ==: ChestData
+  playerUUID: e9d61e70-8027-39f0-8718-2a882872f0a2
+  holographicTimer: world;0.5;-62.200000047683716;1.5
+  worldName: world
+  as_timer_id: a3c0acc9-75c5-45cd-b98c-df422938cbd1
+  playerName: CoedrixD
+  isRemovedBlock: false
+  isInfinity: false
+  as_owner_id: 0ae2629c-512a-412e-82c4-c52f9d5dc538
+  chestDate: 2025-02-09T00:42:55.296Z
   xpStored: 0
   inventory:
   - ==: org.bukkit.inventory.ItemStack
     v: 4082
     type: WOODEN_SHOVEL
-  - ==: org.bukkit.inventory.ItemStack
-    v: 4082
-    type: WOODEN_SWORD
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      display-name: '{"text":"","extra":["Espada eterna"]}'
-      lore:
-      - '{"text":"","extra":["¡Ten cuidado la próxima vez!"]}'
-      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
   - null
   - null
   - null
@@ -496,4 +543,5 @@ chestData:
   - null
   - null
   - null
-  chestLocation: world;0.0;61.0;-3.0
+  - null
+  chestLocation: world;0.0;-63.0;1.0
