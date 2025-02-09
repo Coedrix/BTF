@@ -1,0 +1,434 @@
+chestData:
+- ==: ChestData
+  playerUUID: e9d61e70-8027-39f0-8718-2a882872f0a2
+  holographicTimer: world;2.5;50.799999952316284;0.5
+  worldName: world
+  as_timer_id: 02605d22-75f1-480b-80b8-39ce663c936b
+  playerName: CoedrixD
+  isRemovedBlock: true
+  isInfinity: false
+  as_owner_id: 9b1dc539-b953-44c8-961f-abc9f91aa2a4
+  chestDate: 2025-02-08T05:03:12.254Z
+  xpStored: 0
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":[{"text":"Blazefury","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+      lore:
+      - '{"text":"","extra":[{"text":"A devine sword.","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"This sword is many millennium old...","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      enchants:
+        minecraft:fire_aspect: 3
+        minecraft:knockback: 8
+        minecraft:sharpness: 5
+        minecraft:smite: 5
+      attribute-modifiers:
+        minecraft:attack_damage:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 15.2
+          slot: mainhand
+          operation: 0
+          key: minecraft:generic.attack.damage
+        minecraft:attack_speed:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 19.0
+          slot: mainhand
+          operation: 0
+          key: minecraft:generic.attack.speed
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_ADDITIONAL_TOOLTIP
+      Unbreakable: true
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4E5JLcvMS9XNBIoyAAB8+VA9IQAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WOODEN_SWORD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: FILLED_MAP
+    meta:
+      ==: ItemMeta
+      meta-type: MAP
+      display-name: '{"text":"","extra":[{"text":"Magical Cloth","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+      lore:
+      - '{"text":"","extra":[{"text":"Server promotions","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"Directions or custom maps.","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      ItemFlags:
+      - HIDE_UNBREAKABLE
+      - HIDE_ADDITIONAL_TOOLTIP
+      Unbreakable: true
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+      map-id: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: FIREWORK_STAR
+    amount: 6
+    meta:
+      ==: ItemMeta
+      meta-type: FIREWORK_EFFECT
+      display-name: '{"text":"","extra":[{"text":"Gamemode Token","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+      lore:
+      - '{"text":"","extra":[{"text":"Right-Click use creative token.","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"Left-Click use spectator token.","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      ItemFlags:
+      - HIDE_ADDITIONAL_TOOLTIP
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4EsHkrn5Kam6JfnZqXkMAJZo794kAAAA
+      firework-effect:
+        ==: Firework
+        flicker: false
+        trail: false
+        colors:
+        - ==: Color
+          ALPHA: 255
+          RED: 176
+          BLUE: 38
+          GREEN: 46
+        fade-colors: []
+        type: BALL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WRITTEN_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: BOOK_SIGNED
+      display-name: '{"text":"","extra":[{"text":"Creating a Book","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"red","bold":false}]}'
+      lore:
+      - '{"text":"","extra":[{"text":"","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"Useful for server rules","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"and other server information.","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4EzKz8/WzQSKMQAAq4neYB8AAAA=
+      title: §f
+      author: §bRockinChaos
+      pages:
+      - '{"text":"","extra":["§aThanks for checking","\n","§aout §bItemJoin §aby","\n",{"text":"§b@RockinChaos#6746","hoverEvent":{"contents":"Click
+        to visit the discord.","action":"show_text"},"clickEvent":{"action":"open_url","value":"https://discord.gg/D5FnJ7C"}},"\n","","\n","§0This
+        is an example of","\n","    a §9custom book§0.","\n","§0-=-=-=-=-=-=-=-=-=-","\n","","\n","§0You
+        can set an §cauthor§r","\n","§0and you can add text","\n","§0components using
+        the","\n","§0format <",{"text":"TYPE","hoverEvent":{"contents":"Replace TYPE
+        with the component type. \nExample: run_command, show_text, open_url.","action":"show_text"}},":",{"text":"VALUE","hoverEvent":{"contents":"Replace
+        VALUE with the text, url or command.","action":"show_text"}},">.","\n"]}'
+      - '{"text":"","extra":["§cHow do you specify a","\n","§cnew page number?","\n","","\n","§0As
+        displayed to the","\n","§0left in the items.yml.","\n","§0Create a number
+        to","\n","§0specify the new page.","\n","§cMakesure you put","\n","§ceach
+        number in order.","\n","","\n","§aNote:§0 that you can","\n","§0only have
+        §b14§0 lines ","\n","§0per page.","\n"]}'
+      - '{"text":"","extra":["§0I still §nneed§r help§r!","\n","","\n","§0RockinChaos
+        is always","\n","§0happy to help so feel","\n","§0free to reach out","\n","§0on
+        ",{"text":"§adiscord.","hoverEvent":{"contents":"Click to visit the discord.","action":"show_text"},"clickEvent":{"action":"open_url","value":"https://discord.gg/D5FnJ7C"}},"\n","","\n","§0You
+        can also visit","\n","§0the ",{"text":"§9wiki page","hoverEvent":{"contents":"Click
+        to view the wiki.","action":"show_text"},"clickEvent":{"action":"open_url","value":"https://github.com/RockinChaos/ItemJoin/wiki"}},"
+        §rfor","\n","§0additional help on","\n","§0the plugin including","\n",{"text":"§9custom
+        books.","hoverEvent":{"contents":"Click for additional \nhelp with creating
+        books.","action":"show_text"},"clickEvent":{"action":"open_url","value":"https://github.com/RockinChaos/ItemJoin/wiki/Creating-Items#creating-a-custom-book"}},"\n","","\n",{"text":"Visit
+        Plugin Page!","hoverEvent":{"contents":{"text":"","extra":[{"text":"Click
+        to visit the spigot page.","color":"green"}]},"action":"show_text"},"clickEvent":{"action":"open_url","value":"https://www.spigotmc.org/resources/itemjoin.12661/"},"color":"gold"},"\n"]}'
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: PLAYER_HEAD
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: '{"text":"","extra":[{"text":"CoedrixD","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+      lore:
+      - '{"text":"","extra":[{"text":"Great for setting a players profile,","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"as seen in mini-game servers.","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      Damage: 3
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4Ckoyk/LzEnVzQQKMwAAQmNZ8CIAAAA=
+      skull-owner:
+        ==: PlayerProfile
+        uniqueId: e9d61e70-8027-39f0-8718-2a882872f0a2
+        name: CoedrixD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WHITE_BANNER
+    meta:
+      ==: ItemMeta
+      meta-type: BANNER
+      display-name: '{"text":"","extra":[{"text":"Mighty Creeper","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"blue","bold":false}]}'
+      lore:
+      - '{"text":"","extra":[{"text":"The creeper is our leader!","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      ItemFlags:
+      - HIDE_ADDITIONAL_TOOLTIP
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4E5KzMtLLdLNBIoyAADdPb/NIQAAAA==
+      patterns:
+      - ==: Pattern
+        color: BLUE
+        pattern: minecraft:base
+      - ==: Pattern
+        color: WHITE
+        pattern: minecraft:creeper
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: OAK_SIGN
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: '{"text":"","extra":[{"text":"Statistics","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true}]}'
+      lore:
+      - '{"text":"","extra":[{"text":"Health: 20.0","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+      - '{"text":"","extra":[{"text":"Food Level: 20","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4E3My8xNLElN0S3OTM9jAAA/1U2lIwAAAA==
+      blockMaterial: OAK_SIGN
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: PURPLE_STAINED_GLASS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":[{"text":"Survival Server","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+      lore:
+      - '{"text":"","extra":[{"text":"Click to go to the survival server!","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      enchants:
+        minecraft:fire_aspect: 3
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ADDITIONAL_TOOLTIP
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4E8qzUtPTU3OL0rRzQTKMAAAsroWkCUAAAA=
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: TIPPED_ARROW
+    amount: 16
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: '{"text":"","extra":[{"text":"Death Arrow","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false}]}'
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4CnIL8nMz9NNLCrKL2cAAO6ekq8iAAAA
+      potion-type: minecraft:water
+      custom-effects:
+      - ==: PotionEffect
+        effect: minecraft:wither
+        duration: 3200
+        amplifier: 0
+        ambient: true
+        has-particles: true
+        has-icon: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: FIREWORK_ROCKET
+    meta:
+      ==: ItemMeta
+      meta-type: FIREWORK
+      display-name: '{"text":"","extra":[{"text":"Sparkles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"light_purple","bold":false}]}'
+      lore:
+      - '{"text":"","extra":[{"text":"Right-Click me and watch me fly!","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      ItemFlags:
+      - HIDE_ADDITIONAL_TOOLTIP
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4E3LLEotzy/K1s0EijMAAAQzI14jAAAA
+      firework-effects:
+      - ==: Firework
+        flicker: true
+        trail: true
+        colors:
+        - ==: Color
+          ALPHA: 255
+          RED: 67
+          BLUE: 67
+          GREEN: 67
+        - ==: Color
+          ALPHA: 255
+          RED: 240
+          BLUE: 240
+          GREEN: 240
+        - ==: Color
+          ALPHA: 255
+          RED: 123
+          BLUE: 190
+          GREEN: 47
+        - ==: Color
+          ALPHA: 255
+          RED: 171
+          BLUE: 171
+          GREEN: 171
+        - ==: Color
+          ALPHA: 255
+          RED: 59
+          BLUE: 26
+          GREEN: 81
+        fade-colors:
+        - ==: Color
+          ALPHA: 255
+          RED: 67
+          BLUE: 67
+          GREEN: 67
+        - ==: Color
+          ALPHA: 255
+          RED: 240
+          BLUE: 240
+          GREEN: 240
+        - ==: Color
+          ALPHA: 255
+          RED: 123
+          BLUE: 190
+          GREEN: 47
+        - ==: Color
+          ALPHA: 255
+          RED: 171
+          BLUE: 171
+          GREEN: 171
+        - ==: Color
+          ALPHA: 255
+          RED: 59
+          BLUE: 26
+          GREEN: 81
+        type: CREEPER
+      power: 1
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: '{"text":"","extra":[{"text":"Draught of Madness","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"red","bold":false}]}'
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4C7IL8nMz9PNBIoyAAAi87kaIQAAAA==
+      potion-type: minecraft:water
+      custom-effects:
+      - ==: PotionEffect
+        effect: minecraft:jump_boost
+        duration: 2400
+        amplifier: 1
+        ambient: true
+        has-particles: true
+        has-icon: true
+      - ==: PotionEffect
+        effect: minecraft:strength
+        duration: 3000
+        amplifier: 2
+        ambient: true
+        has-particles: true
+        has-icon: true
+      - ==: PotionEffect
+        effect: minecraft:regeneration
+        duration: 3200
+        amplifier: 0
+        ambient: true
+        has-particles: true
+        has-icon: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: GOLDEN_APPLE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":[{"text":"An Apple","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"light_purple","bold":false}]}'
+      lore:
+      - '{"text":"","extra":[{"text":"This is not any ordinary apple.","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4CnIL8nMz9NNLCjISWUAAI/L6QUiAAAA
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: PLAYER_HEAD
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: '{"text":"","extra":[{"text":"Cyclone","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false}]}'
+      lore:
+      - '{"text":"","extra":[{"text":"This is a custom textured skull.","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"You can create your own skull texture","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"and apply it to a skull item!","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4CrOLs3J0c0ECjIAAD/yYGkgAAAA
+      skull-owner:
+        ==: PlayerProfile
+        uniqueId: eefb5266-7e07-4119-8848-57ea87863f5d
+        name: eefb52667e074119
+        properties:
+        - name: textures
+          value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTYxZGZkZGE3MTAyMmJmYWQ3OWVhYmJmYTU2YTE1MTE2NDdiMjAyYWQxMTM2ZmY5N2UzMWEwNmRiYWMxMGVjYiJ9fX0=
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;2.0;50.0;0.0
+- ==: ChestData
+  playerUUID: e9d61e70-8027-39f0-8718-2a882872f0a2
+  holographicTimer: world;-0.5;50.799999952316284;-0.5
+  worldName: world
+  as_timer_id: cfe28a1a-7100-426a-88cf-adc95927efb5
+  playerName: CoedrixD
+  isRemovedBlock: true
+  isInfinity: false
+  as_owner_id: e40861e8-ab8e-453d-90f5-756fbecde203
+  chestDate: 2025-02-08T05:04:30.433Z
+  xpStored: 0
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":["Espada de inicio"]}'
+      lore:
+      - '{"text":"","extra":["¡Ten esto para no meterte en problemas!"]}'
+      Unbreakable: true
+      custom: H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MhNLNDNBAoxAABTkjXlHgAAAA==
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;-1.0;50.0;-1.0
